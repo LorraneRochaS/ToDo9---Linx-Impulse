@@ -1,10 +1,16 @@
-.Button {
+.Butoon {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     border-radius: 5px;
-    margin: 50px;
+    
     padding: 25px;
+    
+    
+   }
 
-
-
-}
+.Button {
+    color: #000;
+    border: inset;
+    margin: 50px;
+    /* padding: 25px; */
+   }

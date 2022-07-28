@@ -5,9 +5,9 @@ import Button from '../button/Button'
 const Header = () => {
   return (
     <header className={S.Header}>
-            <h3>
+            <p>
                 Uma Seleção de Produtos
-            </h3>
+            </p>
             <h2>
                 Especial Para Você
             </h2>

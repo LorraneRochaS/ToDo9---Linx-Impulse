@@ -1,25 +1,7 @@
-/* .DivCard {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 931px; */
-    /* max-width: ; */
 
-/* } */
-
-/* .Card {
-    width: 200px;
-    */
-    /* height: 250px; */
-    /* display: flex;
-    justify-content: space-evenly;
-    flex-direction: column; */
-    /* flex-wrap: wrap; */
-    /* padding: 10px;
-    border-radius: 5px;
-    box-shadow: 2px 2px 5px #00000080; */
-    /* margin: 10px; */
-/* } */
+.Card {
+    background-color: #fff; 
+ }
 
 section figure {
     width: 80%;
@@ -32,7 +14,11 @@ ul{
     display: flex;
     flex-wrap: wrap;
     width: 931px;
-    justify-content: space-around
+    justify-content: space-around;
+    text-align: center;
+    background-color: #D1D0B6; 
+
+    
 }
 
 .Card {
@@ -41,4 +27,14 @@ ul{
     border-radius: 5px;
     box-shadow: 2px 2px 5px #00000080; 
     margin: 10px;
+    
+}
+
+p{
+    text-align: center;
+}
+
+.Button{
+    color: #000;
+    border: inset;
 }

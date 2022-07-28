@@ -28,6 +28,7 @@ function App() {
     <div className="App">
       <Header />
       <Enviar/>
+      <Especial />
       <ul>
         {carregado === true
         ? produtos.products.map((produto) => {
@@ -44,7 +45,7 @@ function App() {
           }) 
           : ''}
       </ul>
-          <Especial />
+          
           <Compartilhe />
           <Footer />
 

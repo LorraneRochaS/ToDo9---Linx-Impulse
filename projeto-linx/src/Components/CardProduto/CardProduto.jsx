@@ -18,7 +18,7 @@ const CardProduto = ({ img, title, descri, precoAnterior, precoAtual, parcelas, 
                     <strong> Para: {precoAtual}</strong>
                     <small> ou {qtParcelas} de: {parcelas}</small>
                 </p>
-                <button className={S.Butoon}>Comprar</button>
+                <button className={S.Button}>Comprar</button>
             </section>
 
         </div>

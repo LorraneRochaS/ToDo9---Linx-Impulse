@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.Header {
+    background-color: #707070;
+    color: #FFFFFF;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(-173deg, #707070 62%, #ffffff 0%);
+   
+
+}

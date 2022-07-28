@@ -1,0 +1,45 @@
+.Container{
+    display: flex;
+    justify-content:  space-between;
+    flex-direction: row;
+    width: 931px;
+    height: 340px;
+    /* margin: 0 auto; */
+}
+
+.Text {
+    width: 520px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 12px;
+    text-align: left;
+}
+
+.Enviar {
+    /* width: 40%; */
+    display: flex;
+    flex-direction: column;
+    width: 340;
+    justify-content: space-between;
+    
+} 
+
+.Input{
+top: 441px;
+height: 871px;
+width: 340px;
+height: 30px;
+
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+
+}
+
+.Radio{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+

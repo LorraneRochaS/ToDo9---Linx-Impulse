@@ -1,0 +1,10 @@
+.Button {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+    padding: 50px;
+    border-radius: 5px;
+
+
+}
